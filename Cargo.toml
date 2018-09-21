@@ -1,0 +1,6 @@
+[package]
+name = "tio_rico_mcpato"
+version = "0.1.0"
+authors = ["Zamudio, Jose <pepeazb@hotmail.com>"]
+
+[dependencies]
